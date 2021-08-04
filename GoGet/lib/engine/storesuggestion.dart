@@ -3,7 +3,7 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:geolocator/geolocator.dart';
 
-// final User? user = FirebaseAuth.instance.currentUser;
+
 
 storeSuggestions(context, currUser) async {
   
