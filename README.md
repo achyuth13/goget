@@ -1,2 +1,2 @@
 # GoGet
-Shop Recommendation Application
+A Grocery Store Recommendation Application
